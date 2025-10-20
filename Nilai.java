@@ -1,7 +1,3 @@
-// ===============================
-// CLASS : Nilai
-// Memiliki relasi Association dengan Siswa
-// ===============================
 public class Nilai {
     private String mataPelajaran;
     private double skor;

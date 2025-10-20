@@ -1,7 +1,3 @@
-// ===============================
-// PARENT CLASS : Pengguna
-// Superclass yang digunakan oleh Admin dan Siswa
-// ===============================
 public abstract class Pengguna {
     protected String id;
     protected String nama;
